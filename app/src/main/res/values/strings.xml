@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ETEC-parking</string>
+    <string name="qtd_horas">Qtd horas</string>
+    <string name="valor_horas">Valor horas</string>
+    <string name="add_horas">Add horas</string>
+    <string name="calcular">Calcular</string>
+    <string name="total">Total</string>
+</resources>
